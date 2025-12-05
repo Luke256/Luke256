@@ -1,10 +1,10 @@
 ### Hi there I'm Luke256 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=luke256&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.trap.show/api?username=Luke256&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luke256" />
+  <img align="left" src="https://github-readme-stats.trap.show/api/top-langs/?username=Luke256" />
 </a>
 
 <!--
